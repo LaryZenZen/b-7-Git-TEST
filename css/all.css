@@ -1,0 +1,10 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.lary-style {
+    font-size: 30px;
+    line-height: 1.5;
+    color: red;
+}
